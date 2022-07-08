@@ -4,7 +4,6 @@ public class Bet {
 
     public static void main(String[] args) {
         Bet bet = new Bet();
-
     }
 
     public Bet() {
