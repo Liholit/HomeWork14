@@ -12,6 +12,6 @@ public class Bet {
         double stavka = scan.nextDouble();
         System.out.println("Введіть ваш ризик");
         double risk = scan.nextDouble();
-        System.out.println("Ваша ставка " + stavka + " грн" + "\nРизик програшу " + risk + " %");
+        System.out.println("Ваша ставка " + stavka + " грн" + "\nРизик програшу " + risk + " %");dsgdfg
     }
 }
